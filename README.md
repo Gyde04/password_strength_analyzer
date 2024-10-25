@@ -84,25 +84,4 @@ git branch -M main
 git push -u origin main
 ```
 
-To enhance your CV, you can add the following points about this project:
-
-Technical Skills Demonstrated:
-1. Python Programming
-   - Object-Oriented Programming
-   - Regular Expressions
-   - Input/Output Handling
-   - String Manipulation
-
-2. Security Concepts
-   - Password Security Best Practices
-   - Security Analysis
-   - Input Validation
-   - Pattern Recognition
-
-3. Software Development
-   - Version Control (Git)
-   - Documentation
-   - Clean Code Practices
-   - Project Structure
-
 
