@@ -1,11 +1,6 @@
 ```markdown
 # 🔒 Password Strength Analyzer
 
-![GitHub](https://img.shields.io/github/license/yourusername/password-strength-analyzer)
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![Security](https://img.shields.io/badge/Security-Focused-red)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-
 ## 📖 Overview
 **Password Strength Analyzer** is a robust Python-based security tool designed to evaluate password strength using comprehensive criteria. This tool assists users and developers in creating and validating secure passwords by implementing industry-standard security checks and providing detailed feedback.
 
